@@ -1,0 +1,27 @@
+{
+  "name": "slozhno-sosredotochitsya",
+  "version": "1.0.0",
+  "description": "https://github.com/Alex-Ovch/slozhno-sosredotochitsya",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Ovch/slozhno-sosredotochitsya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Ovch/slozhno-sosredotochitsya/issues"
+  },
+  "homepage": "https://github.com/Alex-Ovch/slozhno-sosredotochitsya#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "^7.0.0"
+  }
+}
